@@ -1,3 +1,42 @@
+body{
+  font-family: arial,sans-serif;
+}
+
+.navbar a{
+  color: black;
+  text-decoration: none;
+}
+
+
+.google-apps-icon{
+  height: 15px;
+  width: auto;
+}
+
+.left-header{
+  display: inline-block;
+}
+
+.right-header{
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+}
+
+.top-right{
+  margin-right: 15px;
+}
+
+
+.logo{
+  margin-top: 100px;
+  text-align: center;
+}
+
+.logoImg{
+  height: 92px;
+  width: auto;
+}
 
 .search-bar{
   text-align: center;
@@ -8,12 +47,7 @@
   width: auto;
 }
 
-.logo{
-  margin-top: 100px;
+.search-buttons{
   text-align: center;
-}
-
-.logoImg{
-  height: 92px;
-  width: auto;
+  margin-top: 10px;
 }
